@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Arquivos temporários do Excel
+~$*.xlsx
+~$*.xlsm
+~$*.xlsb
+
+# Arquivos temporários e de backup
+*.tmp
+*.bak
+
+# Configurações locais e credenciais
+.env
+.env.*
+!.env.example

@@ -1,0 +1,151 @@
+﻿id_produto;nome_produto;categoria;id_fornecedor;estoque_inicial;estoque_minimo;custo_unitario
+P001;Arroz Branco 1 kg;Alimentos;F001;59;27;4,96
+P002;Arroz Branco 2 kg;Alimentos;F003;70;14;10,70
+P003;Arroz Branco 5 kg;Alimentos;F005;93;24;22,37
+P004;Arroz Branco Integral 1 kg;Alimentos;F009;42;14;6,53
+P005;Arroz Branco Parboilizado 1 kg;Alimentos;F001;88;20;5,29
+P006;Feijão Carioca 1 kg;ALIMENTOS;F003;53;13;6,06
+P007;  Feijão Preto 1 kg  ;Alimentos;F005;46;22;7,87
+P008;Feijão Fradinho 500 g;Alimentos;F009;45;20;4,78
+P009;Feijão Branco 500 g;Alimentos;F001;53;19;5,33
+P010;Feijão Vermelho 1 kg;Alimentos;F003;86;27;6,62
+P011;Açúcar Cristal 1 kg;Alimentos;F005;70;22;3,85
+P012;Açúcar Cristal 2 kg;Alimentos;F009;82;23;7,56
+P013;Açúcar Refinado 1 kg;Alimentos;F001;72;25;4,95
+P014;Açúcar Demerara 500 g;alimentos;F003;90;28;5,21
+P015;Açúcar Mascavo 500 g;Alimentos;F005;62;21;6,44
+P016;  Macarrão Espaguete 500 g  ;Alimentos;F009;87;22;3,65
+P017;Macarrão Parafuso 500 g;Alimentos;F001;58;19;3,82
+P018;Macarrão  Penne 500 g;Alimentos;F003;76;25;4,58
+P019;Macarrão Integral 500 g;Alimentos;F005;98;28;5,94
+P020;Macarrão Lasanha 500 g;Alimentos;F009;89;21;6,88
+P021;Farinha de Trigo 1 kg;AlIMenTos;F001;77;27;4,23
+P022;Farinha de Mandioca 1 kg;Alimentos;F003;65;17;6,69
+P023;Farinha de Milho 500 g;Alimentos;F005;43;13;3,44
+P024;Farinha de Aveia 500 g;Alimentos;F009;81;15;5,44
+P025;Farinha de Rosca 500 g;Alimentos;F001;65;28;4,59
+P026;Biscoito Água e Sal 200 g;Alimentos;F003;59;21;4,02
+P027;Biscoito Maisena 200 g;Alimentos;F005;71;28;4,14
+P028;Biscoito Integral 150 g;Alimentos;F009;66;25;4,70
+P029;  Biscoito Recheado Chocolate 120 g  ;Alimentos;F001;59;12;3,17
+P030;Biscoito Cream Cracker 200 g;Alimentos;F003;53;27;3,84
+P031;Leite Integral 1 L;Bebidas;F002;56;13;4,48
+P032;Leite Desnatado 1 L;bebidas;F003;63;26;5,52
+P033;Leite Semidesnatado 1 L;Bebidas;F006;61;27;5,01
+P034;Leite Zero Lactose 1 L;Bebidas;F002;67;24;5,90
+P035;Leite Em Pó 400 g;Bebidas;F003;60;21;14,84
+P036;Suco de Uva 1 L;Bebidas;F003;65;22;8,76
+P037;Suco de Laranja 1 L;Bebidas;F006;60;18;7,16
+P038;Suco de Maçã 1 L;Bebidas;F002;73;16;8,63
+P039;Suco de Caju 1 L;Bebidas;F003;41;13;7,21
+P040;Suco de Goiaba 1 L;Bebidas;F006;94;28;6,50
+P041;Água Mineral 500 ml;Bebidas;F006;52;22;1,70
+P042;Água Mineral 1,5 L;Bebidas;F002;56;22;3,32
+P043;Água Mineral 5 L;BEBIDAS;F003;86;28;6,72
+P044;Água com Gás 500 ml;Bebidas;F006;51;14;3,10
+P045;Água com Gás 1 L;Bebidas;F002;46;12;4,30
+P046;Refrigerante Cola 2 L;Bebidas;F002;53;28;7,79
+P047;Refrigerante Guaraná 2 L;Bebidas;F003;53;14;7,65
+P048;Refrigerante Laranja 2 L;Bebidas;F006;86;25;8,19
+P049;Refrigerante Limão 2 L;BeBiDaS;F002;57;28;8,23
+P050;Refrigerante Cola 350 ml;Bebidas;F003;61;15;3,59
+P051;Café Tradicional 250 g;Bebidas;F003;88;25;17,46
+P052;Café Tradicional 500 g;Bebidas;F006;44;21;31,88
+P053;Café Extra Forte 250 g;Bebidas;F002;82;25;18,58
+P054;Café Extra Forte 500 g;Bebidas;F003;75;17;33,29
+P055;Café Solúvel 100 g;Bebidas;F006;82;26;13,47
+P056;Óleo de Soja 900 ml;Mercearia;F008;78;16;7,06
+P057;Óleo de Girassol 900 ml;Mercearia;F001;88;19;11,18
+P058;Óleo  de Canola 900 ml;Mercearia;F007;64;23;11,66
+P059;Óleo de Milho 900 ml;Mercearia;F008;85;24;11,12
+P060;Óleo de Coco 200 ml;Mercearia;F001;91;24;15,57
+P061;  Molho de Tomate 300 g  ;Mercearia;F001;51;13;2,70
+P062;Molho de Tomate 500 g;Mercearia;F007;82;14;4,01
+P063;Molho de Pimenta 150 ml;Mercearia;F008;48;19;5,24
+P064;Molho Shoyu 150 ml;Mercearia;F001;91;25;6,70
+P065;Molho Inglês 150 ml;Mercearia;F007;83;15;6,31
+P066;Milho Verde Lata 170 g;Mercearia;F007;73;18;3,26
+P067;Milho Verde Lata 280 g;Mercearia;F008;55;23;4,25
+P068;Milho Verde Sachê 170 g;Mercearia;F001;35;12;3,10
+P069;Milho Verde Sachê 280 g;Mercearia;F007;58;28;4,37
+P070;Milho Verde Conserva 200 g;Mercearia;F008;45;21;4,17
+P071;Ervilha Lata 170 g;Mercearia;F008;69;19;3,43
+P072;Ervilha Lata 280 g;Mercearia;F001;88;24;4,56
+P073;Ervilha Sachê 170 g;Mercearia;F007;64;16;3,53
+P074;Ervilha Sachê 280 g;Mercearia;F008;66;19;4,74
+P075;Ervilha Conserva 200 g;Mercearia;F001;59;13;3,97
+P076;Detergente Neutro 500 ml;Limpeza;F004;58;14;2,56
+P077;Detergente Limão 500 ml;mercearia;F006;61;15;2,47
+P078;Detergente Coco 500 ml;Limpeza;F011;90;24;2,72
+P079;Detergente Maçã 500 ml;Limpeza;F004;75;17;2,82
+P080;Detergente Neutro 1 L;Limpeza;F006;76;23;4,71
+P081;Sabão em Pó 500 g;Limpeza;F006;90;21;5,69
+P082;Sabão em Pó 800 g;Limpeza;F011;71;21;7,81
+P083;Sabão em Pó 1 kg;Limpeza;F004;41;17;9,84
+P084;Sabão em Pó 1,6 kg;Limpeza;F006;66;26;16,98
+P085;Sabão em Pó 2 kg;Limpeza;F011;84;21;19,24
+P086;Desinfetante Lavanda 500 ml;Limpeza;F011;60;14;3,24
+P087;Desinfetante Pinho 500 ml;LIMPEZA;F004;40;15;2,91
+P088;Desinfetante Eucalipto 500 ml;Limpeza;F006;79;12;3,44
+P089;Desinfetante Lavanda 2 L;Limpeza;F011;57;18;8,58
+P090;Desinfetante Pinho 2 L;Limpeza;F004;85;21;7,86
+P091;Água Sanitária 500 ml;Limpeza;F004;68;27;2,20
+P092;Água Sanitária 1 L;Limpeza;F006;50;22;3,67
+P093;Água Sanitária 2 L;Limpeza;F011;77;19;5,99
+P094;Água  Sanitária 3 L;Limpeza;F004;74;14;8,29
+P095;Água Sanitária 5 L;Limpeza;F006;88;18;12,48
+P096;Amaciante Flores 500 ml;Limpeza;F006;84;23;4,18
+P097;Amaciante Flores 2 L;Limpeza;F011;55;14;11,93
+P098;Amaciante Lavanda 500 ml;Limpeza;F004;70;16;4,63
+P099;Amaciante Lavanda 2 L;limpeza;F006;55;23;12,61
+P100;Amaciante Neutro 2 L;Limpeza;F011;37;13;11,86
+P101;Sabonete Neutro 85 g;Higiene;F010;73;27;1,86
+P102;Sabonete Erva-Doce 85 g;Higiene;F004;54;26;2,12
+P103;  Sabonete Lavanda 85 g  ;Higiene;F008;48;13;2,20
+P104;Sabonete Glicerina 90 g;Higiene;F010;64;13;2,18
+P105;Sabonete Líquido 250 ml;Higiene;F004;61;24;9,39
+P106;Shampoo Neutro 200 ml;Higiene;F004;60;13;11,48
+P107;Shampoo Hidratação 200 ml;Higiene;F008;65;23;12,65
+P108;Shampoo Anticaspa 200 ml;higiene;F010;54;20;15,48
+P109;Shampoo Infantil 200 ml;Higiene;F004;56;28;9,93
+P110;Shampoo Neutro 350 ml;Higiene;F008;45;17;16,46
+P111;Condicionador Neutro 200 ml;Higiene;F008;44;12;11,28
+P112;Condicionador Hidratação 200 ml;Higiene;F010;85;21;11,91
+P113;Condicionador Cachos 200 ml;Higiene;F004;84;21;14,82
+P114;Condicionador Infantil 200 ml;HIGIENE;F008;46;12;11,47
+P115;Condicionador Neutro 350 ml;Higiene;F010;42;19;17,10
+P116;Creme Dental Menta 70 g;Higiene;F010;86;23;3,91
+P117;Creme Dental Menta 90 g;Higiene;F004;74;18;5,24
+P118;Creme Dental Branqueador 70 g;Higiene;F008;83;24;5,59
+P119;Creme Dental Infantil 50 g;Higiene;F010;84;14;3,98
+P120;  Creme Dental Sensibilidade 90 g  ;Higiene;F004;57;21;7,46
+P121;Papel Higiênico 4 Rolos 20 m;Higiene;F004;67;24;6,11
+P122;Papel Higiênico 4 Rolos 30 m;Higiene;F008;73;20;8,04
+P123;Papel Higiênico 8 Rolos 20 m;HiGiEnE;F010;57;24;11,06
+P124;Papel Higiênico 8 Rolos 30 m;Higiene;F004;61;19;13,78
+P125;Papel Higiênico 12 Rolos 30 m;Higiene;F008;38;13;19,92
+P126;Iogurte Natural 170 g;Laticínios;F009;36;14;2,93
+P127;Iogurte Morango 170 g;Laticínios;F012;53;20;3,37
+P128;Iogurte Coco 170 g;Laticínios;F005;43;13;3,33
+P129;Iogurte Natural 500 g;Laticínios;F009;52;17;6,74
+P130;Iogurte Morango 500 g;Laticínios;F012;52;19;6,69
+P131;Queijo Muçarela 150 g;Laticínios;F012;81;25;8,98
+P132;Queijo Muçarela 300 g;Laticínios;F005;71;13;18,14
+P133;Queijo  Prato 150 g;Laticínios;F009;71;19;9,96
+P134;Queijo Minas 300 g;Laticínios;F012;49;14;20,67
+P135;Queijo Parmesão Ralado 50 g;Laticínios;F005;50;26;5,17
+P136;Manteiga com Sal 200 g;Laticínios;F005;68;25;10,44
+P137;Manteiga sem Sal 200 g;Laticínios;F009;84;22;11,37
+P138;Manteiga com Sal 500 g;Laticínios;F012;46;24;24,07
+P139;Manteiga sem Sal 500 g;Laticínios;F005;78;18;24,72
+P140;Manteiga Extra 200 g;Laticínios;F009;34;12;14,47
+P141;  Legumes Congelados Mix 300 g  ;Congelados;F010;76;26;7,64
+P142;Legumes Congelados Mix 500 g;Congelados;F012;91;26;10,96
+P143;Legumes Congelados Brócolis 300 g;Congelados;F007;65;12;8,35
+P144;Legumes Congelados Ervilha 300 g;Congelados;F010;87;23;7,49
+P145;Legumes Congelados Cenoura 300 g;Congelados;F012;48;26;6,84
+P146;Polpa de Fruta Acerola 100 g;Congelados;F012;76;20;2,36
+P147;Polpa de Fruta Caju 100 g;Congelados;F007;58;15;2,63
+P148;Polpa de Fruta Goiaba 100 g;Congelados;F010;74;12;2,44
+P149;Polpa de Fruta Manga 100 g;Congelados;F012;47;12;2,43
+P150;Polpa de Fruta Maracujá 100 g;Congelados;F007;76;21;3,10
